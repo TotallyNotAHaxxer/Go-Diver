@@ -21,7 +21,7 @@ there are a few downsides to this script ( its just a fun project i started XD )
  ______  _____      ______  _____ _    _ _______  ______
  |  ____ |     | ___ |     \   |    \  /  |______ |_____/
  |_____| |_____|     |_____/ __|__   \/   |______ |    \_
-```````````````````````````````````````````````````````````
+
 [+] Starting Go Diver....
 -------------------------- URL PARSED -------------- 
 Scheme        --->  https
@@ -30,7 +30,6 @@ Path in URL   --->  /AURSINC-Deauther-Wristband-Development-Wearable/dp/B08YX7FG
 Query Strings --->  _encoding=UTF8&pd_rd_w=GfMya&pf_rd_p=628b38b6-dbee-442c-9e9c-e8813ea9e367&pf_rd_r=XSAEDMNF8YA0CMAFXQX1&pd_rd_r=23e976a4-6fb9-4e02-8641-ba206fe373fb&pd_rd_wg=S3m1q&ref_=pd_gw_ci_mcx_mr_hp_d
 Fragments     --->  
 -------------- URL QUERY VALS ----------------------- 
-map[_encoding:[UTF8] pd_rd_r:[23e976a4-6fb9-4e02-8641-ba206fe373fb] pd_rd_w:[GfMya] pd_rd_wg:[S3m1q] pf_rd_p:[628b38b6-dbee-442c-9e9c-e8813ea9e367] pf_rd_r:[XSAEDMNF8YA0CMAFXQX1] ref_:[pd_gw_ci_mcx_mr_hp_d]]
 ====================== PARSING OF THE HTML NOTES ======================
 
  ______  _____      ______  _____ _    _ _______  ______
