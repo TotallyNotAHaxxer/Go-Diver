@@ -35,7 +35,6 @@ Fragments     --->
  ______  _____      ______  _____ _    _ _______  ______
  |  ____ |     | ___ |     \   |    \  /  |______ |_____/
  |_____| |_____|     |_____/ __|__   \/   |______ |    \_
-```````````````````````````````````````````````````````````
 <!--  Loading EDP related metadata -->
 <!--giftCardHolidayAvailabilityMessaging_placeholder-->
 <!-- MarkAF -->
@@ -48,7 +47,6 @@ Fragments     --->
 <!-- NAVYAAN FOOTER START -->
 <!-- WITH MOZART -->
 <!-- NAVYAAN FOOTER END -->
-
 
 ```
 
