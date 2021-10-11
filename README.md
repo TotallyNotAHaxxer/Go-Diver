@@ -35,6 +35,24 @@ Fragments     --->
  ______  _____      ______  _____ _    _ _______  ______
  |  ____ |     | ___ |     \   |    \  /  |______ |_____/
  |_____| |_____|     |_____/ __|__   \/   |______ |    \_
+ 
+ 
+ https://www.wholefoodsmarket.com
+https://www.woot.com/
+https://www.zappos.com
+https://ring.com
+https://eero.com/
+https://blinkforhome.com/?ref=nav_footer
+https://shop.ring.com/pages/neighbors-app
+/gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa
+https://www.pillpack.com
+/gp/browse.html?node=12653393011&ref_=footer_usrenew
+/amazonsecondchance?ref_=footer_asc
+/gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+/gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy
+/interestbasedads/ref=footer_iba
+/rd/uedata?tepes=1&id=Q2CEXC6VDKNG7375H211
+
 <!--  Loading EDP related metadata -->
 <!--giftCardHolidayAvailabilityMessaging_placeholder-->
 <!-- MarkAF -->
