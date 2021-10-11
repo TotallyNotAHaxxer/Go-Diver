@@ -36,10 +36,9 @@ map[_encoding:[UTF8] pd_rd_r:[23e976a4-6fb9-4e02-8641-ba206fe373fb] pd_rd_w:[GfM
 `SCRAPING OF URLS WITHIN THE HTML PAGE OF THE COMPLEX URL`
 
 ```
- ______  _____      ______  _____ _    _ _______  ______
+  ______  _____      ______  _____ _    _ _______  ______
  |  ____ |     | ___ |     \   |    \  /  |______ |_____/
  |_____| |_____|     |_____/ __|__   \/   |______ |    \_
-```````````````````````````````````````````````````````````
 https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A01618256LZ954FE1B2B&qualifier=1633927840&id=2301742887845320&widgetName=sp_detail_thematic&url=%2Fdp%2FB01EWOE0UU%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB01EWOE0UU%26pd_rd_w%3DgrITa%26pf_rd_p%3D54ed5474-54a8-4c7f-a88a-45f748d18166%26pd_rd_wg%3DYOIjW%26pf_rd_r%3DQ2CEXC6VDKNG7375H211%26pd_rd_r%3D37ca730f-20e2-440a-91b8-6eacd7f3cf25
 https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=sspa_dk_detail_9?ie=UTF8&adId=A01618256LZ954FE1B2B&qualifier=1633927840&id=2301742887845320&widgetName=sp_detail_thematic&url=%2Fdp%2FB01EWOE0UU%2Fref%3Dsspa_dk_detail_9%3Fpsc%3D1%26pd_rd_i%3DB01EWOE0UU%26pd_rd_w%3DgrITa%26pf_rd_p%3D54ed5474-54a8-4c7f-a88a-45f748d18166%26pd_rd_wg%3DYOIjW%26pf_rd_r%3DQ2CEXC6VDKNG7375H211%26pd_rd_r%3D37ca730f-20e2-440a-91b8-6eacd7f3cf25
 #
